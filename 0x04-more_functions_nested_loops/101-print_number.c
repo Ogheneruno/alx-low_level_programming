@@ -4,7 +4,7 @@
  * @n: Input number
  */
 
-void print_numbers(int n)
+void print_number(int n)
 {
 	long len, res, i, temp, expo;
 
